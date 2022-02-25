@@ -1,0 +1,5 @@
+database:
+    dsn: "mysql:host=do-database;dbname=database"
+    user: user
+    password: root
+
